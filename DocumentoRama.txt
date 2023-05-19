@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Este documento pertenece a la rama de prueba.
 
 12345
+=======
+Este documento pertenece a la rama de prueba 
+
+12345
+
+>>>>>>> 41b306ef7e3a11f464d0d9eb2dde23c5101297d7
